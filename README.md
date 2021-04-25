@@ -44,7 +44,7 @@
 
 # DEPLOY
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WhiteEyeOrg/WhiteEyeUserBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nyikhil/WhiteEyeUserBot)
 # String
 
 [![Run on Repl.it](https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it)](https://repl.it/@mrdayamzaidi/WhiteEyeUserbot)
